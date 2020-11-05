@@ -1,0 +1,39 @@
+/* 
+  RuLocale.strings
+  Fonties
+
+  Created by Semyon on 04.11.2020.
+  
+*/
+// Screens names
+"mainScreen"            = "Fonties";
+"settingsScreen"        = "Настройки";
+"splashScreen"          = "Обучение";
+"workspaceScreen"       = "Проект";
+
+// Main screen
+"createdWithFonties"    = "Сделано в Fonties";
+"newProject"            = "Новый проект ";
+"howItWorks"            = "Помощь";
+"settings"              = "Настройки";
+"recentProjects"        = "Недавние проекты";
+"recentProjectsEmpty"   = "Недавних проектов нет.\nСоздайте новый!";
+"fontiesInfoMsg"        = "Fonties - приложение для бесплатного\nиспользования различных шрифтов при обработке фото.\n- Разработка в процессе";
+"gotIt"                 = "Понял!";
+
+// Workspace Screen
+"toStartAddNewProject"  = "Для того, чтобы начать,\nдобавьте фото...";
+"chooseColor"           = "Выбор цвета...";
+"recentlyUsed"          = "предыдущие:";
+"noColorsYet"           = "пока нет цветов";
+"changePallete"         = "сменить палетку";
+"tooManyBaseImages"     = "Слишком много изображений";
+"youMayAddOnlyOne"      = "Извините, в качестве базового может быть выбрано лишь одно изображение";
+"addPhoto"              = "Добавить фото";
+"takePhoto"             = "Сделать фото";
+"palleteClassic"        = "Классические \"плоские\" цвета";
+"palleteBritish"        = "Британская палетка";
+"palleteCanadian"       = "Канадская палетка";
+
+//  How to use screen
+"nextStepHelp"          = "Далее";

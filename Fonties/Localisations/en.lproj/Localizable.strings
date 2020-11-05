@@ -1,0 +1,40 @@
+/* 
+  RuLocale.strings
+  Fonties
+
+  Created by Semyon on 04.11.2020.
+  
+*/
+// Screens names
+"mainScreen"            = "Fonties";
+"settingsScreen"        = "Settings";
+"splashScreen"          = "How to use";
+"workspaceScreen"       = "Workspace";
+
+// Main screen
+"createdWithFonties"    = "Already created";
+"newProject"            = "New Project ";
+"howItWorks"            = "How it works";
+"settings"              = "Settnigs";
+"recentProjects"        = "Recent projects";
+"recentProjectsEmpty"   = "There are no projects yet.\nCreate one!";
+"fontiesInfoMsg"        = "Fonties is an app designed to provide\nfree usage of different fonts to help people express their emotions in photos.\n- Developing currently in progress";
+"gotIt"                 = "Got it!";
+
+// Workspace Screen
+"toStartAddNewProject"  = "To start editing,\nplease, add photo..";
+"chooseColor"           = "Choose color...";
+"recentlyUsed"          = "recently used:";
+"noColorsYet"           = "no colors yet";
+"changePallete"         = "change pallete";
+"tooManyBaseImages"     = "Too many base images";
+"youMayAddOnlyOne"      = "Sorry, you may add only one main image to work with";
+"addPhoto"              = "Add photo";
+"takePhoto"             = "Take photo";
+"palleteClassic"        = "Classic Flat";
+"palleteBritish"        = "British Pallete";
+"palleteCanadian"       = "Canadian Pallete";
+
+//  How to use screen
+"nextStepHelp"          = "Далее";
+
